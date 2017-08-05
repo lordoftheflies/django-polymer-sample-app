@@ -57,7 +57,7 @@ INSTALLED_APPS = (
     'allauth.socialaccount',
     'allauth.socialaccount.providers.facebook',
 
-    'ui',
+    'ui2',
     'tracks',
 )
 
